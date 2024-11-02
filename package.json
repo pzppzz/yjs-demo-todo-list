@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "layui": "^2.9.18",
+    "signal-disposer": "^1.0.1",
+    "y-websocket": "^2.0.4",
+    "yjs": "^13.6.20"
+  }
+}
